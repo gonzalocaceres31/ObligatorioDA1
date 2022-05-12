@@ -37,5 +37,9 @@ namespace Logica
                 Compras.Add(compra);
             }
         }
+        public override string ToString()
+        {
+            return this.FechaInicio + " - " + this.FechaFin;
+        }
     }
 }

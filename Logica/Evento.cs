@@ -27,5 +27,9 @@ namespace Logica
                 return false;
             }
         }
+        public override string ToString() 
+        {
+            return this.Nombre + " - " + this.Descripcion + " - " + this.Categoria;
+        }
     }
 }

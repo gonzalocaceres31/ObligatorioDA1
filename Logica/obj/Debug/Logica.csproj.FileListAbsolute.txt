@@ -6,3 +6,11 @@ C:\Users\gocaceres\source\repos\Logica\obj\Debug\Logica.csproj.SuggestedBindingR
 C:\Users\gocaceres\source\repos\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
 C:\Users\gocaceres\source\repos\Logica\obj\Debug\Logica.exe
 C:\Users\gocaceres\source\repos\Logica\obj\Debug\Logica.pdb
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\bin\Debug\Logica.exe.config
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\bin\Debug\Logica.exe
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\bin\Debug\Logica.pdb
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\obj\Debug\Logica.csproj.AssemblyReference.cache
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\obj\Debug\Logica.csproj.SuggestedBindingRedirects.cache
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\obj\Debug\Logica.csproj.CoreCompileInputs.cache
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\obj\Debug\Logica.exe
+\\Mac\Home\Documents\GitHub\ObligatorioDA1\Logica\obj\Debug\Logica.pdb
