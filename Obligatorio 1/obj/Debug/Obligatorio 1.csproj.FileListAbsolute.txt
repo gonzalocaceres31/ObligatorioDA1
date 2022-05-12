@@ -1,0 +1,3 @@
+C:\Users\gocaceres\source\repos\Obligatorio 1\obj\Debug\Obligatorio 1.csproj.AssemblyReference.cache
+C:\Users\gocaceres\source\repos\Obligatorio 1\obj\Debug\Obligatorio 1.csproj.SuggestedBindingRedirects.cache
+C:\Users\gocaceres\source\repos\Obligatorio 1\obj\Debug\Obligatorio 1.csproj.CoreCompileInputs.cache

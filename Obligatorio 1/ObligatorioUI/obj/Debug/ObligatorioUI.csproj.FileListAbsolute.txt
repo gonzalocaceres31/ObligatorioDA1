@@ -1,0 +1,15 @@
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\bin\Debug\ObligatorioUI.exe.config
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\bin\Debug\ObligatorioUI.exe
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\bin\Debug\ObligatorioUI.pdb
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\bin\Debug\Logica.exe
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\bin\Debug\Logica.pdb
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\bin\Debug\Logica.exe.config
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.csproj.AssemblyReference.cache
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.Form1.resources
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.Properties.Resources.resources
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.csproj.GenerateResource.cache
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.csproj.CoreCompileInputs.cache
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.csproj.CopyComplete
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.exe
+C:\Users\gocaceres\source\repos\Obligatorio 1\ObligatorioUI\obj\Debug\ObligatorioUI.pdb
